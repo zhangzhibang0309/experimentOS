@@ -1,0 +1,3 @@
+C:\JetBrains\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\experimentOS.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\experimentOS.dir/objects.a @CMakeFiles\experimentOS.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\experimentOS.dir/objects.a -Wl,--no-whole-archive -o experimentOS.exe -Wl,--out-implib,libexperimentOS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\experimentOS.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/experimentOS/cmake-build-debug/CMakeFiles/experimentOS.dir
+C:/Users/Lenovo/Desktop/experimentOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/experimentOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
